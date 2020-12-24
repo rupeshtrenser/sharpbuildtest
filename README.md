@@ -12,7 +12,8 @@ Steps to Install Cloud Kiosk Client
 -----------------------------------
 - Enter into installer directory
 - Run following command to make script runnable 
-  chmod +x install.sh
+
+    chmod +x install.sh
 - Run sudo ./install.sh
 
 Installer configurations
