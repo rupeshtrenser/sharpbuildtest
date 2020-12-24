@@ -15,19 +15,20 @@ Installer configurations
 ------------------------
 These are the installer configurations used in config.js 
 
-installation_path - Installation path of cloud kiosk client
-required_space - Required space in MB
-applicationUrl - Cloud Kiosk Client application URL
-imageServicesBaseUrl - Base URL of the image service
-processedImagePath - Processed image folder path
-cloudUploadBaseUrl - Base URL of the cloud upload service
-mediaReaderServerBaseUrl - Base URL of  the media reader server 
-ffApiLicenseKey - FujiFilm I2/IO library API license key
-wifiSmbSharePath - SMB share directory
-dhcpStaticIp - DHCP static IP to use 
-dhcpRange - dnsmasq DHCP ip range
-ssid -SSID of the softAP (hostapd)
-passPharse - Pass pharse of the softAP
+
+- installation_path - Installation path of cloud kiosk client
+- required_space - Required space in MB
+- applicationUrl - Cloud Kiosk Client application URL
+- imageServicesBaseUrl - Base URL of the image service
+- processedImagePath - Processed image folder path
+- cloudUploadBaseUrl - Base URL of the cloud upload service
+- mediaReaderServerBaseUrl - Base URL of  the media reader server 
+- ffApiLicenseKey - FujiFilm I2/IO library API license key
+- wifiSmbSharePath - SMB share directory
+- dhcpStaticIp - DHCP static IP to use 
+- dhcpRange - dnsmasq DHCP ip range
+- ssid -SSID of the softAP (hostapd)
+- passPharse - Pass pharse of the softAP
 
 To build cloud kiosk client
 ------------------------
