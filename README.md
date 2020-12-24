@@ -1,5 +1,3 @@
-# sharpbuildtest
-
 Installation prerequisite for fresh raspberry PI OS
 ---------------------------------------------------
 Update package list by running the following command
