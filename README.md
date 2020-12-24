@@ -32,13 +32,13 @@ These are the installer configurations used in config.js
 
 To build cloud kiosk client
 ------------------------
--Enter into cloud-kiosk-client directory
--To build run following command
- npm run dist
--Enter into app.asar directory
--Unpack app.asar using the following command
- npx asar extract app.asar destfolder 
--Rename destfolder(app.asar extracted folder) to app.asar
--Rename unpacked package folder to cloud-kiosk-client
--Compress cloud-kiosk-client folder to tar.gz file format using the following command
- tar -czvf cloud-kiosk-client.tar.gz cloud-kiosk-client
+- Enter into cloud-kiosk-client directory
+- To build run following command
+    npm run dist
+- Enter into app.asar directory
+- Unpack app.asar using the following command
+    npx asar extract app.asar destfolder 
+- Rename destfolder(app.asar extracted folder) to app.asar
+- Rename unpacked package folder to cloud-kiosk-client
+- Compress cloud-kiosk-client folder to tar.gz file format using the following command
+    tar -czvf cloud-kiosk-client.tar.gz cloud-kiosk-client
