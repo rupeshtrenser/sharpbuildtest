@@ -1,4 +1,6 @@
 ## Cloud Kiosk Client (Linux installer)
+Cloud kiosk client installer automatically checks application dependecy and installs it.
+This script can be used to install or update Cloud Kiosk Client.
 
 Installation prerequisite for fresh raspberry PI OS
 ---------------------------------------------------
