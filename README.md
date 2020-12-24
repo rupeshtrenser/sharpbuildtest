@@ -1,3 +1,5 @@
+## Cloud Kiosk Client (Linux installer)
+
 Installation prerequisite for fresh raspberry PI OS
 ---------------------------------------------------
 Update package list by running the following command
