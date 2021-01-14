@@ -56,6 +56,9 @@ How to run cloud kiosk client app
 
 ImageService
 -------------
-.NET Core version used - dotnet-sdk-3.1.301-linux-arm.tar.gz
-dotnet-sdk-3.1.301-linux-arm.tar.gz file can be downloaded from the following link
+- .NET Core version used - dotnet-sdk-3.1.301-linux-arm.tar.gz
+- dotnet-sdk-3.1.301-linux-arm.tar.gz file can be downloaded from the following link
 https://download.visualstudio.microsoft.com/download/pr/dbf4ea18-70bf-4b0f-ae9c-65c8c88bcadd/115e84fb95170ddeeaf9bdb9222c964d/dotnet-sdk-3.1.301-linux-arm.tar.gz
+- ImageService pushled tar.gz file name should be publish.tar.gz
+
+
