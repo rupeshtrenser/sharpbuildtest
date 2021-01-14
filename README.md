@@ -42,7 +42,8 @@ To build cloud kiosk client
 - It will create an unpacked folder and appimage file,we need to use "linux-armv7l-unpacked" directory
 - Rename "linux-armv7l-unpacked" directory to cloud-kiosk-client
 - Compress cloud-kiosk-client folder to tar.gz file format using the following command
-   tar -czvf cloud-kiosk-client.tar.gz cloud-kiosk-client
+   
+    tar -czvf cloud-kiosk-client.tar.gz cloud-kiosk-client
 
 How to run cloud kiosk client app
 ---------------------------------
