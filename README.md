@@ -50,7 +50,7 @@ How to run cloud kiosk client app
 - Enter into cloud-kiosk-client installed directory
 - Run the command to start app
 
-./mediareader-kiosk
+    ./mediareader-kiosk
   
 
 ImageService
