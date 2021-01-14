@@ -66,6 +66,7 @@ How to run Image Service app
 - Open terminal
 - Enter into image service installed directory
 - Run the following command to start the app
+    
     dotnet ImageServiceApi.dll
 
 
