@@ -45,7 +45,7 @@ To build cloud kiosk client
    
     tar -czvf cloud-kiosk-client.tar.gz cloud-kiosk-client
 
-How to run cloud kiosk client app
+How to run Cloud Kiosk Client app
 ---------------------------------
 - Open terminal
 - Enter into cloud-kiosk-client installed directory
@@ -60,5 +60,12 @@ ImageService
 - dotnet-sdk-3.1.301-linux-arm.tar.gz file can be downloaded from the following link
 https://download.visualstudio.microsoft.com/download/pr/dbf4ea18-70bf-4b0f-ae9c-65c8c88bcadd/115e84fb95170ddeeaf9bdb9222c964d/dotnet-sdk-3.1.301-linux-arm.tar.gz
 - ImageService pushled tar.gz file name should be publish.tar.gz
+
+How to run Image Service app
+----------------------------
+- Open terminal
+- Enter into image service installed directory
+- Run the following command to start the app
+    dotnet ImageServiceApi.dll
 
 
