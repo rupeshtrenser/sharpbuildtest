@@ -49,7 +49,7 @@ How to start Cloud Kiosk Client app
 ---------------------------------
 - Open terminal
 - Enter into cloud-kiosk-client installed directory
-- Run the command to start app
+- Run the following command to start app
 
     ./mediareader-kiosk
   
